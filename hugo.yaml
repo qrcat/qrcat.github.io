@@ -1,0 +1,4 @@
+baseURL: https://qrcat.github.io/
+languageCode: en-us
+title: QRCat's Blog
+theme: ["PaperMod"]
