@@ -6,11 +6,10 @@ author: ["Quanyuan Ruan", "Jiabao Lei", "Wenhao Yuan", "Yanglin Zhang", "Dekun L
 draft: false
 description: ""
 cover:
-    image: "https://qrcat.github.io/prof-robot//static/images/teaser.png" # image path/url
+    image: "/prof-robot//static/images/teaser.png" # image path/url
     alt: "By learning and integrating a gradient-consistent pose classifier into a differentiable rendering pipeline, the generated pose trajectories are free from physical collisions. The objective is to penalize high collision probabilities during optimization." # alt text
     caption: "Prof.Robot improves upon Dr.Robot by additionally enabling differentiable avoidance of static and self-collisions." # display caption under cover
 ---
-
 Differentiable rendering has gained significant attention in the field of robotics, with differentiable robot rendering emerging as an effective paradigm for learning robotic actions from image-space supervision. However, the lack of physical world perception in this approach may lead to potential collisions during action optimization. In this work, we introduce a novel improvement on previous efforts by incorporating physical awareness of collisions through the learning of a neural robotic collision classifier. This enables the optimization of actions that avoid collisions with static, non-interactable environments as well as the robot itself. To facilitate effective gradient optimization with the classifier, we identify the underlying issue and propose leveraging Eikonal regularization to ensure consistent gradients for optimization. Our solution can be seamlessly integrated into existing differentiable robot rendering frameworks, utilizing gradients for optimization and providing a foundation for future applications of differentiable rendering in robotics with improved reliability of interactions with the physical world. Both qualitative and quantitative experiments demonstrate the necessity and effectiveness of our method compared to previous solutions.
 
-[Project](https://qrcat.github.io/prof-robot) [Code](https://github.com/qrcat/prof.robot) [Paper](https://arxiv.org/)
+[Project](/prof-robot) [Code](https://github.com/qrcat/prof.robot) [Paper](https://arxiv.org/abs/2503.11269)
