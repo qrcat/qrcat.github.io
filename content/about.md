@@ -1,6 +1,7 @@
 ---
 title: "About"
 ---
-![head](/image/head.jpg)
+<!-- ![head](/image/head.jpg) -->
 
-<img alt="head" loading="lazy" src="/image/head.jpg" />
+
+[中文简历](/about_cn) | [English Resume](/about_en)
