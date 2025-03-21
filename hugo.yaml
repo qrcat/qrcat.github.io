@@ -50,7 +50,7 @@ params:
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: "icon/cat_128x128.ico"
     iconHeight: 35
 
   # home-info mode
@@ -65,6 +65,10 @@ params:
       url: "https://scholar.google.com/citations?user=PetMYj8AAAAJ&hl=zh-CN"
     - name: email
       url: "mailto:ruanquanyuan@outlook.com"
+
+  analytics:
+    google:
+      SiteVerificationTag: "G-76PLZ7N2P1"
 
   cover:
     hidden: true # hide everywhere but not in structured data
