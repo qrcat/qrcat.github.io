@@ -12,7 +12,7 @@
 
 ## 项目经历
 
-- **Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions**
+- **[Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions](https://www.qrcat.cn/prof-robot/)**
   - **2024/07 - 2024/11**
   - 研究可微分机器人渲染中的碰撞问题，结合二分类问题与 SDF 场，实现机器人的碰撞感知、消除。
   - 利用有依赖关系的多层感知机对机器人姿态学习 SDF 场，以判断碰撞情况，提升梯度优化的可靠性。

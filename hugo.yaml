@@ -59,9 +59,11 @@ params:
     Content: "M.Eng in South China University of Techonology. Focusing on Computer Vision"
 
   socialIcons: # optional
-    - name: "github"
+    - name: github
       url: "https://github.com/qrcat"
-    - name: "email"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=PetMYj8AAAAJ&hl=zh-CN"
+    - name: email
       url: "mailto:ruanquanyuan@outlook.com"
 
   cover:

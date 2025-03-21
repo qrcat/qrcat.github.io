@@ -12,7 +12,7 @@
 
 ## Projects
 
-- **Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions**
+- **[Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions](https://www.qrcat.cn/prof-robot/)**
   - **2024/07 - 2024/11**
   - Researched collision issues in differentiable robot rendering, combining binary classification with SDF fields to achieve collision detection and elimination for robots
   - Used dependent multi-layer perceptrons to learn SDF fields from robot poses to determine collisions, improving gradient optimization reliability
