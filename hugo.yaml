@@ -121,14 +121,12 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  goldmark:
+    renderer:
+      unsafe: True
 
 outputs:
   home:
     - HTML
     - RSS
     - JSON # necessary for search
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: True
