@@ -42,21 +42,21 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "icon/cat_cvpr_64x64.ico"
-    favicon16x16: "icon/cat_cvpr_16x16.ico"
-    favicon32x32: "icon/cat_cvpr_32x32.ico"
-    apple_touch_icon: "icon/cat_cvpr_128x128.ico"
-    safari_pinned_tab: "icon/cat_cvpr_32x32.ico"
+    favicon: "icon/cat_64x64.ico"
+    favicon16x16: "icon/cat_16x16.ico"
+    favicon32x32: "icon/cat_32x32.ico"
+    apple_touch_icon: "icon/cat_128x128.ico"
+    safari_pinned_tab: "icon/cat_32x32.ico"
 
   label:
     text: "Home"
-    icon: "icon/cat_cvpr_128x128.ico"
+    icon: "icon/cat_128x128.ico"
     iconHeight: 35
 
   # home-info mode
   homeInfoParams:
     Title: "Quanyuan Ruan's o(=•ェ•=)m😼"
-    Content: "M.Eng in South China University of Techonology. Focusing on Computer Vision"
+    Content: "B.S. & M.Eng., South China University of Technology."
 
   socialIcons: # optional
     - name: github
